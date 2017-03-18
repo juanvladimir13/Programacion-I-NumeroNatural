@@ -1,4 +1,5 @@
 NumeroNatural.exe
-*.dcu
-*.~pas
-*.~dfm
+**/*.~dpr
+**/*.dcu
+**/*.~pas
+**/*.~dfm

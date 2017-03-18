@@ -2,8 +2,8 @@ program NumeroNatural;
 
 uses
   Forms,
-  UFPrincipal in 'UFPrincipal.pas' {frmPrincipal},
-  UCNumeroNatural in 'UCNumeroNatural.pas';
+  UCNumeroNatural in 'models\UCNumeroNatural.pas',
+  UFPrincipal in 'views\UFPrincipal.pas' {frmPrincipal};
 
 {$R *.res}
 
